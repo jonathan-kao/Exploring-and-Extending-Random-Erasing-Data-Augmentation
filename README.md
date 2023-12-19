@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # README for ECE 570 Project: Random Erasing Data Augmentation Exploration and Extension
 
 ## Author: Jonathan Kao
@@ -68,6 +66,3 @@ This repository contains the code and resources for the ECE 570 project titled "
 - Users may need to adjust the transform settings for different data augmentation techniques.
 - Renaming output files (checkpoints and model files) according to the data augmentation and training settings is recommended for better organization.
 - Detailed instructions and explanations are provided within the notebook file.
-=======
-# Exploring-and-Extending-Random-Erasing-Data-Augmentation
->>>>>>> origin/main
