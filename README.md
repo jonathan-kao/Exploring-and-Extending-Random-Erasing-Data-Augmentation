@@ -66,3 +66,6 @@ This repository contains the code and resources for the ECE 570 project titled "
 - Users may need to adjust the transform settings for different data augmentation techniques.
 - Renaming output files (checkpoints and model files) according to the data augmentation and training settings is recommended for better organization.
 - Detailed instructions and explanations are provided within the notebook file.
+
+### Purpose of the Paper
+The paper, titled "Random Erasing Data Augmentation Project Paper," was written as part of a college course project. Its primary purpose is to explore the application and effectiveness of random erasing as a data augmentation technique in machine learning models. The paper includes informal discussions, experimental results, and potential extensions of the technique. It is intended to provide insights and foster discussion among peers and instructors.
